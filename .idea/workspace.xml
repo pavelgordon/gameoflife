@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8da83c8-60b9-497f-8ed8-6173f773c189" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gameoflife" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gameoflife" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gameoflife" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gameoflife" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XXaHN5fAaHIarHt8Xf9yeo3d66" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/dev/pgordon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.dev.pgordon.MainKt">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorldApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gameoflife [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gameoflife [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gameoflife [configJavafxRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="configJavafxRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev.pgordon.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="gameoflife.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="dev.pgordon.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev.pgordon.MyAppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="gameoflife.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="dev.pgordon.MyAppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldApp" type="TORNADOFX_RUNCONFIGURATION" factoryName="TornadoFX Configuration Factory" run-type="App" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="dev.pgordon.MyApp" />
+      <module name="gameoflife.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Gradle.gameoflife [configJavafxRun]" />
+      <item itemvalue="TornadoFX.HelloWorldApp" />
+      <item itemvalue="Gradle.gameoflife [clean]" />
+      <item itemvalue="Gradle.gameoflife [build]" />
+      <item itemvalue="Kotlin.dev.pgordon.MyAppKt" />
+      <item itemvalue="Kotlin.dev.pgordon.MainKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.dev.pgordon.MainKt" />
+        <item itemvalue="Kotlin.dev.pgordon.MyAppKt" />
+        <item itemvalue="Gradle.gameoflife [build]" />
+        <item itemvalue="Gradle.gameoflife [clean]" />
+        <item itemvalue="Gradle.gameoflife [configJavafxRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8da83c8-60b9-497f-8ed8-6173f773c189" name="Default Changelist" comment="" />
+      <created>1581194804250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581194804250</updated>
+      <workItem from="1581194806748" duration="751000" />
+      <workItem from="1581195592678" duration="292000" />
+      <workItem from="1581195919351" duration="4959000" />
+      <workItem from="1581243493871" duration="12644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="109" key="#Unnamed" timestamp="1581195512264">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="458" y="109" key="#Unnamed/0.0.1680.1050@0.0.1680.1050" timestamp="1581195512264" />
+    <state x="261" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581247347324">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="261" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581247347324" />
+    <state x="577" y="169" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581197142389">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="577" y="169" key="#com.intellij.ide.macro.MacrosDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581197142389" />
+    <state x="1030" y="348" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581247125446">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1030" y="348" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581247125446" />
+    <state x="592" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1581249983738">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="592" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581249983738" />
+    <state width="1626" height="260" key="GridCell.Tab.0.bottom" timestamp="1581262985895">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1626" height="260" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581262985895" />
+    <state width="1626" height="260" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1581261003281" />
+    <state width="1626" height="260" key="GridCell.Tab.0.bottom/0.23.1680.958@0.0.1680.1050" timestamp="1581195895084" />
+    <state width="1626" height="260" key="GridCell.Tab.0.center" timestamp="1581262985893">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1626" height="260" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581262985893" />
+    <state width="1626" height="260" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1581261003280" />
+    <state width="1626" height="260" key="GridCell.Tab.0.center/0.23.1680.958@0.0.1680.1050" timestamp="1581195895083" />
+    <state width="1626" height="260" key="GridCell.Tab.0.center/0.23.1680.959@0.0.1680.1050" timestamp="1581195895075" />
+    <state width="1626" height="260" key="GridCell.Tab.0.left" timestamp="1581262985892">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1626" height="260" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581262985892" />
+    <state width="1626" height="260" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1581261003280" />
+    <state width="1626" height="260" key="GridCell.Tab.0.left/0.23.1680.958@0.0.1680.1050" timestamp="1581195895082" />
+    <state width="1626" height="260" key="GridCell.Tab.0.left/0.23.1680.960@0.0.1680.1050" timestamp="1581195895035" />
+    <state width="1626" height="260" key="GridCell.Tab.0.right" timestamp="1581262985894">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1626" height="260" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581262985894" />
+    <state width="1626" height="260" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1581261003281" />
+    <state width="1626" height="260" key="GridCell.Tab.0.right/0.23.1680.958@0.0.1680.1050" timestamp="1581195895083" />
+    <state x="277" y="9" key="SettingsEditor" timestamp="1581246980291">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="277" y="9" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581246980291" />
+    <state width="625" height="564" key="SwitcherDM" timestamp="1581260064142">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="625" height="564" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1581260064142" />
+    <state x="436" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1581195925393">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="436" y="313" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581195925393" />
+    <state x="20" y="52" key="new project wizard" timestamp="1581242277954">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="20" y="52" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1581242277954" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1581257545536">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581257545536" />
+  </component>
+</project>
