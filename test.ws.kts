@@ -1,1 +1,0 @@
-grid.flatten().toList()
