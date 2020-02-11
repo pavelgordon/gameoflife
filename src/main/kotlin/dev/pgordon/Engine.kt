@@ -44,7 +44,7 @@ class GameOfLife(
                 MutableList(sizeOfField) { j -> Cell(i, j, EMPTY) }
             }
 
-        fun random(sizeOfField: Int, initPopulation: Int = sizeOfField * 2): Board =
+        fun random(sizeOfField: Int, initPopulation: Int = sizeOfField * 4): Board =
             empty(sizeOfField).also { board ->
                 for (i in 0..initPopulation) {
                     val (x, y) = Random.nextInt(sizeOfField) to Random.nextInt(sizeOfField)
@@ -110,11 +110,14 @@ class GameOfLife(
 
         for (i in 0 until sizeOfField) {
             for (j in 0 until sizeOfField) when (oldBoard.amountOfAliveNeighbors(i, j)) {
+
+                in (0..1) + (4..9) -> killAt(i, j)
                 2 -> {
                     // do nothing
                 }
-                3 -> killAt(i, j)
-                else -> birthAt(i, j)
+                3 -> {
+                    birthAt(i, j)
+                }
             }
 
         }
@@ -124,11 +127,11 @@ class GameOfLife(
     public fun startGame() {
         GlobalScope.launch {
             var generation = 1
-            delay(1000) // delay for the ui to show up
+            delay(3000) // delay for the ui to show up
             while (true) {
                 println("Generation ${generation++}, alive cells ${field.amountOfAliveCells()}")
                 tick()
-                delay(400)
+                delay(5000)
             }
         }
     }
